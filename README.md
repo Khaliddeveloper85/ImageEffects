@@ -1,7 +1,6 @@
-# ImageEffects
-With this tool , you can enable some awesome effects on your image.
-Welcome to the ImageEffects wiki!
 First in the name of god.
+
+Welcome to the ImageEffects wiki!
 Hi guys! to day I wanna to  introduce my new project.
 Its name is ImageEffects.
 With this tool I created you can enable some great and awesome effects on your image.
