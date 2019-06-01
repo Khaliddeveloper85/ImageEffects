@@ -1,0 +1,40 @@
+<!--
+    بسم الله الرحمن الرحیم
+
+    in the name of god
+-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ImageEffects</title>
+    </head>
+
+    <body>
+        <img  id="img">
+
+        <form class="myForm">
+          <input type="range" class="slider" min="0" max="100" value="0" id="blur" onchange="enableEffects()">
+          <br>
+          <input type="range" class="slider" min="60" max="200" value="0" id="invert" onchange="enableEffects()">
+          <br>
+          <input type="range" class="slider" min="0" max="360" value="0" id="huerotate" onchange="enableEffects()">
+          <br>
+          <input type="range" class="slider" min="0" max="300" value="0" id="saturate" onchange="enableEffects()">
+          <br>
+
+          <input type="text" id="adr">
+          <button type="button" onclick="uploadImg()">Upload</button>
+
+        </form>
+
+
+        <script type="text/javascript" src="../ImageEffects/ImageEffects.js"></script>
+    </body>
+</html>
+
+<!--
+Developed By‌ Khalid and published in github on June 1st
+
+https://github.com/Khaliddeveloper85
+ -->
